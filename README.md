@@ -1,7 +1,7 @@
 # About Me
+
 Aspiring game developer with a Bachelor’s in Computer Game Development (in progress) and an AA in Graphic Design. Experienced in Java, C++, and team leadership. Dedicated to creating immersive, scalable software solutions.
 
-**QP-06/QP-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...I’m currently working on creating projects in Java and C++ to strengthen my skills and prepare for a career in game development
 - 🌱 I’m currently learning ...advanced C++ concepts, game engine architecture, and Java algorithims.

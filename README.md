@@ -8,5 +8,5 @@ Aspiring game developer with a Bachelor’s in Computer Game Development (in pro
 - 👯 I’m looking to collaborate on ...on open-source projects related to game development and object-oriented programming
 - 💬 Ask me about ... object-oriented programming, gameplay mechanics, or blending design with development.  
 - 📫 How to reach me: ...[Linkdin]https://www.linkedin.com/in/quilina-p-b59b97356/ [Email] poullardq@gmail.com   
-- ⚡ Fun fact: ...I started in graphic design before moving into game development — creativity meets code!  
+- ⚡ Fun fact: ...I started in graphic design before moving into game development. Creativity meets code!  
 
